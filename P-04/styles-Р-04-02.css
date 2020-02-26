@@ -1,0 +1,36 @@
+body{
+	color: #000;
+	background-color: #fff;
+	background-image: url(bg.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%; 
+	font-family: Helvetica, Arial, sans-serif; 	
+}
+
+.a{
+	color: #000;
+	background-color: #fff;
+	display: flex;
+	justify-content: center;
+	margin-top: 20%;
+	margin-left: 35%; 
+	height: auto;
+	width: 30%;
+	border: 5px groove #ccc; 
+}
+
+#f-login{
+	margin-left: 34.1%;
+}
+
+#f-password{
+	margin-left: 28.1%;
+}
+
+button{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-left: 40%;
+	margin-top: 5%;
+}
